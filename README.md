@@ -13,7 +13,7 @@ I work as an IT Infrastructure and Security Analyst in addition to being a Devel
 </div>
 
 ## Some of my knowledges/tools that I use
-<div style="display: inline_block">
+<div align="center" style="display: inline_block">
   <img align="center" alt="Python logo" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="React logo" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="NodeJS logo" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -26,7 +26,7 @@ I work as an IT Infrastructure and Security Analyst in addition to being a Devel
 </div>
 
 ### My GitHub Stats
-<div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabrielrbernardi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrbernardi&layout=compact&langs_count=8&hide=tsql,haskell,html&theme=tokyonight" />
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabrielrbernardi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrbernardi&layout=compact&langs_count=8&hide=tsql,haskell,html&theme=tokyonight&hide_border=true" />
 </div>
